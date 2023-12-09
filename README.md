@@ -19,7 +19,7 @@ VIII - [Juegos largos](#viii-juegos-largos)
 
 ## I-Sobre el ceño y las virtudes:
 
-En la metodología pedagógica de Fiore de Liberi , se utilizan los conceptos de virtudes fundamentales del guerrero, los cuales se encarnan en animales (o perritos que quieren ser otros animales).
+En la metodología pedagógica de Fiore de Liberi, se utilizan los conceptos de virtudes fundamentales del guerrero, los cuales se encarnan en animales (o perritos que quieren ser otros animales).
 
 Esto se analiza en una representación gráfica de Fiore, conocida como su ceño. En él, expresa con la representación de un hombre al frente, acompañado de estas expresiones animalescas de las virtudes que debe tener un esgrimista:
 
