@@ -19,7 +19,7 @@ VIII - [Juegos largos](#viii-juegos-largos)
 
 ## I-Sobre el ceño y las virtudes:
 
-En la metodología pedagógica de Fiore de Liberi , se utilizan los conceptos de virtudes fundamentales del guerrero,los cuales se encarnan en animales (o perritos que quieren ser otros animales).
+En la metodología pedagógica de Fiore de Liberi , se utilizan los conceptos de virtudes fundamentales del guerrero, los cuales se encarnan en animales (o perritos que quieren ser otros animales).
 
 Esto se analiza en una representación gráfica de Fiore, conocida como su ceño. En él, expresa con la representación de un hombre al frente, acompañado de estas expresiones animalescas de las virtudes que debe tener un esgrimista:
 
@@ -27,21 +27,21 @@ Esto se analiza en una representación gráfica de Fiore, conocida como su ceño
 
 Estos valores son los siguientes:
 
-**a-Celeritas o velocidad**, representada por el tigre, quien se impone ante sus rivales con su reacción rápida, siempre atacando primero.Tiene como principal instrumento, la flecha.
+**a-Celeritas o velocidad**, representada por el tigre, quien se impone ante sus rivales con su reacción rápida, siempre atacando primero. Tiene como principal instrumento, la flecha.
 
 Dicho ítem refleja la celeridad de cada esgrimista hacia su rival, como si este último fuese una diana a la cual apuntar. Está en el lado derecho del esgrimista.
 
-**b-Audatia o audacia** (o coraje), encarnado por el león, quien siendo el rey de la selva, se impone con su tenacidad y valentía frente a sus adversarios. Tiene
-como objeto característico el corazón, ya que la valentía es un fuego que insufla el órgano cardiaco de cada esgrimista, como fuente inagotable de voluntad que lo motiva a superar los obstáculos que enfrenta.Está en el lado izquierdo del esgrimista.
+**b-Audatia o audacia** (o coraje), encarnado por el león, quien siendo el rey de la selva, se impone con su tenacidad y valentía frente a sus adversarios.
 
-**c-Prudentia o prudencia**, ejemplificado por el lince , el cual es la criatura que siempre sabe reaccionar bien ante cualquier situación en los combates, dando el fundamento lógico racional a las acciones que el esgrimista debe ejercer para imponerse sobre su adversario. Tiene como su instrumento el compás, objeto que ayuda a medir y calcular sus acciones. Está sobre la cabeza del esgrimista.
+Tiene como objeto característico el corazón, ya que la valentía es un fuego que insufla el órgano cardiaco de cada esgrimista, como fuente inagotable de voluntad que lo motiva a superar los obstáculos que enfrenta. Está en el lado izquierdo del esgrimista.
+
+**c-Prudentia o prudencia**, ejemplificado por el lince, el cual es la criatura que siempre sabe reaccionar bien ante cualquier situación en los combates, dando el fundamento lógico racional a las acciones que el esgrimista debe ejercer para imponerse sobre su adversario. Tiene como su instrumento el compás, objeto que ayuda a medir y calcular sus acciones. Está sobre la cabeza del esgrimista.
 
 **d- Fortitudo o fuerza**, personificado por el elefante, la bestia terrestre más imponente de todas, quien jamás se somete ante el enemigo a pesar de los embates que sufre. Su objeto característico es la torre, ítem que refleja la contundencia y resistencia que debe tener el esgrimista de sus piernas y tronco inferior de su cuerpo, como base sólida de sus movimientos. Está bajo las piernas del esgrimista.
 
 ## II-Cortes.
 
-Dentro del ceño de Fiore, se muestran 7 cortes a los cuales el esgrimista se ve expuesto, los cuales son 4 diagonales (dos ascendentes y otros dos descendentes), dos golpes
-laterales y uno corte vertical ascendente.
+Dentro del ceño de Fiore, se muestran 7 cortes a los cuales el esgrimista se ve expuesto, los cuales son 4 diagonales (dos ascendentes y otros dos descendentes), dos golpes laterales y uno corte vertical ascendente.
 
 Estos tipos de cortes, los conocemos de la siguiente manera:
 
@@ -49,7 +49,7 @@ Estos tipos de cortes, los conocemos de la siguiente manera:
 
 **b-Messani:** Es un corte horizontal ya sea de derecha a izquierda o viceversa. Se realiza con filo verdadero.
 
-**c-Sottani:** Es un corte ascendente, o en otras palabras, se proyecta desde abajo hacia arriba.Se realiza preferentemente con filo falso, pero se puede también con verdadero.
+**c-Sottani:** Es un corte ascendente, o en otras palabras, se proyecta desde abajo hacia arriba. Se realiza preferentemente con filo falso, pero se puede también con verdadero.
 
 ## III-Mesura:
 
@@ -59,33 +59,34 @@ La respecto, se conocen estas mesuras:
 
 **a-Messura Longa (distancia larga):** Las espadas chocan por el débil de la hoja. Se puede alcanzar al oponente con un golpe a pesar de estar lejos de él, dando un paso. Esta distancia también se puede medir con tres pasares entre mi persona y el rival.
 
-**b- Media Messura (distancia media):** Las espadas pueden cruzarse a la mitad de la hoja. Se puede tocar al rival en su zona de tronco y brazos, después de dar el paso. Esta mesura si bien es cierto no es canónica según la tradición de Fiore, para efectos de este curso será oficial (Porque Shinji así lo quiere).(Para mayor información sobre la teoría shinjista de la distancia media, se les sugiere hablar con dicho semi-elfo).
+**b- Media Messura (distancia media):** Las espadas pueden cruzarse a la mitad de la hoja. Se puede tocar al rival en su zona de tronco y brazos, después de dar el paso. Esta mesura si bien es cierto no es canónica según la tradición de Fiore, para efectos de este curso será oficial (Porque Shinji así lo quiere). (Para mayor información sobre la teoría shinjista de la distancia media, se les sugiere hablar con dicho semi-elfo).
 
-**c-Messura breve (distancia corta):** Estoy muy cerca y puedo tocar a mi oponente sin necesidad de dar un paso, ya que estoy en una distancia íntima con éste..Esta distancia también se puede medir con un pasar entre mi persona y el rival.
+**c-Messura breve (distancia corta):** Estoy muy cerca y puedo tocar a mi oponente sin necesidad de dar un paso, ya que estoy en una distancia íntima con éste. Esta distancia también se puede medir con un pasar entre mi persona y el rival.
 
 **d-Messura Rota:** Esta distancia como bien dice su nombre, está rota. No sirve para atacar al contrario, aún dando tanto él como yo un paso- Esto se debe a que nadie puede tocar ni chocar sus espadas. La única utilidad práctica que tiene esta messura radica en evitar la ofensiva del rival, alejándose mucho de su embate. Eso sí, con la desventaja de no poder atacarle de inmediato, por la lejanía que supone esto.
 
 ## IV-Tempos:
 
-Como ya se ha dicho , el concepto de tiempo se entiende como *“el periodo medible entre dos eventos, más concretamente entre causas y efecto”*. Estos son los tipos de tempos que veremos en este año:
+Como ya se ha dicho, el concepto de tiempo se entiende como *“el periodo medible entre dos eventos, más concretamente entre causas y efecto”*. Estos son los tipos de tempos que veremos en este año:
 
 **a-Stesso-Tempo:** Consiste en realizar una acción en calidad de combatiente en contra de la reacción del contrincante al mismo tiempo (por ejemplo, ambos contrincantes ((el rival y yo)) luchamos en tiempos medibles en la nota musical “negrita” y por eso, nos cortamos al mismo tiempo en algún momento). Técnicamente, los “dobles” que vemos cotidianamente en nuestras prácticas pasan porque los rivales se atacan en este tiempo.
 
 **b-El Mezzo-Tempo:** Corresponde a la realización de una acción que toma un medio tiempo de lo que en general alguien demora por golpe. En otras palabras, es una reacción generada en la mitad del tiempo que un acometimiento normal. (En el ejemplo anterior, uno de los contrincantes que ataca siempre en notas musicales “negritas”, realiza ahora un ataque bajo la nota musical “semi-corchea”)
 
-**c-El Dui-Tempo:** Se trata en definitiva de una réplica a un ataque. Se refiere a un golpe, desde el cual inmediatamente se ejecuta otro golpe aún más veloz. Por eso en esencia, son dos golpes o tiempos.(En el ejemplo anterior, uno de los contrincantes hace su primer golpe bajo la nota musical “negrita”, para inmediatamente realizar un segundo golpe bajo la nota musical “semi-corchea”)
+**c-El Dui-Tempo:** Se trata en definitiva de una réplica a un ataque. Se refiere a un golpe, desde el cual inmediatamente se ejecuta otro golpe aún más veloz. Por eso en esencia, son dos golpes o tiempos. (En el ejemplo anterior, uno de los contrincantes hace su primer golpe bajo la nota musical “negrita”, para inmediatamente realizar un segundo golpe bajo la nota musical “semi-corchea”)
 
 ## V-Rotare:
 
-El “Rotaggiare”, “Rota” o “Rotare” (como lo conocemos en clase), significa “girar” y es mencionado por Filippo Vadi , utilizando golpes y guardias enseñados por Fiore dei Liberi.
+El “Rotaggiare”, “Rota” o “Rotare” (como lo conocemos en clase), significa “girar” y es mencionado por Filippo Vadi, utilizando golpes y guardias enseñados por Fiore dei Liberi.
 Se trata de la sucesión de golpes frontales ininterrumpidos y constantes en contra del rival, de mínimo 3 golpe.Teóricamente, los golpes dentro del rotare pueden comenzar desde las guardias pulsativas (aunque es más habitual que una guardia pulsativa termine el rotare con su golpe fulminante) y se mantienen con guardias inestables.
+
 Las guardias estables no sirven para el rotare, porque siempre lo rompen.
 
 El objetivo de esto es generar aperturas con ataques concatenados y consecutivos y así poder acceder a la cabeza del oponente.
 
 Debe tomarse en cuenta que el rotare es como una cadena. Cada eslabón conocido como “rota”, equivale a un golpe que se va concatenando con otro de forma sucesiva. Por ello, lacadena será más larga a medida que tenga más eslabones (rotas o golpes).
 
-Cada rota equivale a un corte (fendente, mezzanine y sotani), Las estocadas o “puntas” no sirven como rotare, debido a que no son fáciles de concatenar al instante con otros acometimientos. Por ello, una punta rompe el rotare.
+Cada rota equivale a un corte (fendente, mezzanine y sotani). Las estocadas o “puntas” no sirven como rotare, debido a que no son fáciles de concatenar al instante con otros acometimientos. Por ello, una punta rompe el rotare.
 
 ## VI- Guardias o postas:
 
@@ -119,7 +120,7 @@ A su vez, su sencillez permite cómodamente a su usuario, estocar y cortar rápi
 
 ![Posta breve](images/posta_breve.webp "Posta Breve")
 
-**ii-Posta Longa:** Esta posición mantiene la espada extendida hacia adelante, con la punta de nuestra espada fija en contra del oponente.Con ella, se pueden realizar cortes muy cómodamente y estocadas muy eficaces. También es muy útil para mantener la misura longa con el rival y por ello, medir la distancia que se tiene contra éste.
+**ii-Posta Longa:** Esta posición mantiene la espada extendida hacia adelante, con la punta de nuestra espada fija en contra del oponente. Con ella, se pueden realizar cortes muy cómodamente y estocadas muy eficaces. También es muy útil para mantener la misura longa con el rival y por ello, medir la distancia que se tiene contra éste.
 
 Adicionalmente, cabe destacar que esta guardia permite la realización efectiva de todos los juegos largos. Por ello, dominarla implica la naturalidad de emplear estos movimientos estratégicos en misura longa, siempre con suma eficacia.
 
@@ -131,7 +132,7 @@ Es muy útil para reflectar la espada del oponente en un ataque descendente. Tie
 
 ![Posta fenestra](images/posta_fenestra.webp "Posta fenestra")
 
-**v-Posta di Bicorno:** En esta posición, la espada se ubica horizontalmente a la altura del pecho con el pomo pegado o cercano a éste (esto varía si el practicante es hombre o mujer… por obvias razones). Ambas manos tomarán la empuñadura con las palmas mirando al cielo y con los brazos flectados bien juntos al cuerpo.
+**v-Posta di Bicorno:** En esta posición, la espada se ubica horizontalmente a la altura del pecho con el pomo pegado o cercano a éste (esto varía si el practicante es hombre o mujer, por obvias razones). Ambas manos tomarán la empuñadura con las palmas mirando al cielo y con los brazos flectados bien juntos al cuerpo.
 
 Es una guardia muy inestable, lo que permite engañar fácilmente y hacer estocadas y/o cortes rápidos e inesperados (es más natural hacer estocadas o puntas que cortes, pero se puede utilizar para hacer ambos acometimientos).
 
@@ -153,13 +154,13 @@ Si bien es cierto, es una guardia muy obvia en cuanto a su ejecución, si se rea
 
 **ii-Dente di Zanghiaro:** Esta postura se caracteriza por colocar la espada, en diagonal hacia abajo y con pomo cercano o pegado a la cadera del lado idóneo a nuestra guardia (por ejemplo, si yo estoy como diestro, pondré el pomo cerca de mi cadera derecha).
 
-Esta guardia es muy cómoda para medirse contra todas las otras,según Fiore.Esto lo señaló debido a que si bien es cierto, esta posta es estable y por ello, muy fuerte para defender, contiene un potencial ofensivo bastante vasto para acometer contra cualquier otra postura.
+Esta guardia es muy cómoda para medirse contra todas las otras,según Fiore. Esto lo señaló debido a que si bien es cierto, esta posta es estable y por ello, muy fuerte para defender, contiene un potencial ofensivo bastante vasto para acometer contra cualquier otra postura.
 
 ![Posta dente di zenghiaro](images/dente_zenghiaro.webp "Posta dente di zenghiaro")
 
 ### VI-c: Todas las guardias pulsativas:
 
-**i-Posta di Donna:** Con ella, la espada está en diagonal hacia arriba apuntando hacia atrás y pomo a la altura del pecho. Esta guardia es realmente cómoda para el descanso y mantenerse amentazante.Es versátil para atacar, ya que con ella, se pueden efectuar fendentes y messanis contundentes contra la zona superior del cuerpo del oponente e incluso, estocadas en contra del rival.
+**i-Posta di Donna:** Con ella, la espada está en diagonal hacia arriba apuntando hacia atrás y pomo a la altura del pecho. Esta guardia es realmente cómoda para el descanso y mantenerse amentazante. Es versátil para atacar, ya que con ella, se pueden efectuar fendentes y messanis contundentes contra la zona superior del cuerpo del oponente e incluso, estocadas en contra del rival.
 
 ![Posta di donna](images/posta_donna.webp "Posta di donna")
 
@@ -169,9 +170,7 @@ Es muy útil para efectuar sotannis más poderosos y estocadas sorpresivas al op
 
 ![Posta dente di zenghiaro](images/dente_zenghiaro_mezzano.webp "Posta dente di zenghiaro mezzano")
 
-*(Esta imagen es de Dente di Zanghiaro, pero imaginen que el pomo del practicante está más arriba, cerca de sus costillas).*
-
-**iii-Tutta Porta di Ferro:** Con esta guardia, la espada apunta en diagonal hacia abajo, ubicándose a nuestro costado, con el pomo a la altura de la cadera y con guardia a nivel de suelo para atacar fácilmente de cortes y estocadas a las zona media de nuestro cuerpo, por medio de recios cortes sótanos y messanis.Se ubica al lado natural a la guardia, por lo que si por ejemplo estamos como diestros, se depositará a nuestro costado derecho y no al izquierdo.
+**iii-Tutta Porta di Ferro:** Con esta guardia, la espada apunta en diagonal hacia abajo, ubicándose a nuestro costado, con el pomo a la altura de la cadera y con guardia a nivel de suelo para atacar fácilmente de cortes y estocadas a las zona media de nuestro cuerpo, por medio de recios cortes sotanis y messanis. Se ubica al lado natural a la guardia, por lo que si por ejemplo estamos como diestros, se depositará a nuestro costado derecho y no al izquierdo.
 
 ![Posta tutta porta di ferro](images/tutta_porta_ferro.webp "Posta di tutta porta di ferro")
 
@@ -220,7 +219,7 @@ ii- Las defensas pueden distinguirse entre sí según su intensidad de ejecució
 
 En consideración a estos dos principios, ahora hablaremos de las defensas o coberturas que tanto Fiore de Liberi como Filipo Vadi distinguen en sus manuales.
 
-### VII-b:Coberturas según Fiore.
+### VII-b: Coberturas según Fiore.
 
 Fiore de Liberi distingue las siguientes dos defensas, partiendo desde las menos intensa a la más fuerte:
 
@@ -228,7 +227,7 @@ Fiore de Liberi distingue las siguientes dos defensas, partiendo desde las menos
 
 **ii-Riposte:** Esta defensa implica atacar el ataque de mi adversario para hacerlo ineficiente, desviarlo o abrir una brecha. En otras palabras, es un movimiento defensivo tan intenso que en vez de solo parar de forma pasiva el ataque rival, busca anularlo yendo con intensidad en contra de éste.
 
-### VII-c:Coberturas según Vadi.
+### VII-c: Coberturas según Vadi.
 
 Filipo Vadi reconoce como cobertas o coberturas, a las siguientes acciones defensivas en razón de su intensidad:
 
@@ -242,27 +241,23 @@ Filipo Vadi reconoce como cobertas o coberturas, a las siguientes acciones defen
 
 La parte final de la materia final de este año, versa sobre los juegos con la espada. A continuación,se analizará el concepto básico de lo que es un juego, según la noción aportada por Fiore de Liberi, como a su vez la aproximación de los juegos largos.
 
-### VIII-a:Noción elemental de “juegos”:
+### VIII-a: Noción elemental de “juegos”:
 
 Para efectos de este curso, se entenderá como un “juego” a “aquella estrategia utilizada acorde a la proximidad o lejanía que mantengo con el rival, para efectos de realizar con acometimiento concluyente”.
 
-Por lo tanto, un juego es una estrategia, la cual entiende como “el proceso regulable que se
-tiene para obtener un resultado u objetivo de manera óptima”.
+Por lo tanto, un juego es una estrategia, la cual entiende como “el proceso regulable que se tiene para obtener un resultado u objetivo de manera óptima”.
 
 Por lo tanto, el juego en sí no se improvisa ni se realiza al azar, la idea es ejecutarla de manera predeterminada dentro del contexto previsto para obtener el objetivo que se pretende, el cual es el acometimiento concluyente sobre el rival.
 
 ### VIII-b: Juegos largos:
 
-Cuando estamos en misura longa o distancia larga contra el rival, contamos con estrategias
-determinadas para acometer de forma favorable, los cuales son los juegos largos. Esto a
-continuación son los siguientes:
+Cuando estamos en misura longa o distancia larga contra el rival, contamos con estrategias determinadas para acometer de forma favorable, los cuales son los juegos largos. Esto a continuación son los siguientes:
 
-**i-Juego del Villano:** En esta maniobra, si el oponente nos ataca con un fendente, en respuesta a ello, procederemos a defendernos con una posta di fenestra. Al momento de que se junten o encuentren ambas espadas,usaremos la fuerza del impacto para impulsar nuestro propio contraataque de fendente. Todo ello, mientras hacemos el movimiento al unísono de pasar diagonalmente para reposicionarnos y obtener un ángulo idóneo para asestar dicho corte sobre la cabeza del adversario.
+**i-Juego del Villano:** En esta maniobra, si el oponente nos ataca con un fendente, en respuesta a ello, procederemos a defendernos con una posta di fenestra. Al momento de que se junten o encuentren ambas espadas, usaremos la fuerza del impacto para impulsar nuestro propio contraataque de fendente. Todo ello, mientras hacemos el movimiento al unísono de pasar diagonalmente para reposicionarnos y obtener un ángulo idóneo para asestar dicho corte sobre la cabeza del adversario.
 
 **ii-Dejar pasar:** Esta maniobra parte de la misma manera que el “juego del villano”, salvo que no se realiza el contacto de las espadas previo a nuestro contraataque con fendente y pasar a la vez. Simplemente se pasa cambiando de ángulo, evadiendo el fendente del oponente para inmediatamente contratacarlo con nuestro propio fendente sobre la cabeza de mi adversario.
 
-**iii-Bajar la punta:** En esta maniobra, tanto nosotros como el rival entramos chocamos las espadas al mismo tiempo,quedando por ello en incrosada o mezamella. Desde ese 
-momento, la maniobra diferirá en dos opciones:
+**iii-Bajar la punta:** En esta maniobra, tanto nosotros como el rival entramos chocamos las espadas al mismo tiempo,quedando por ello en incrosada o mezamella. Desde ese momento, la maniobra diferirá en dos opciones:
 
 a-Si la incrosada se ha dado en nuestra parte más baja o fuerte de la hoja (el punto de contacto de nuestras hojas está más bajo), bajaremos nuestra punta de la espada, mientras nos reposicionamos a la vez, para tener un mejor ángulo de entrada y golpear la cabeza del adversario.
 
